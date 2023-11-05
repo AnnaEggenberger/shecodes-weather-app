@@ -1,0 +1,15 @@
+.card {
+  max-width: 600px;
+}
+
+.fahrenheit {
+  font-size: 16px;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+.celsius {
+  font-size: 24px;
+}
